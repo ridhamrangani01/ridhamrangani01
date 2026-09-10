@@ -18,8 +18,8 @@
   <a href="https://github.com/ridhamrangani01">
     <img src="https://img.shields.io/badge/GitHub-ridhamrangani01-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub" />
   </a>
-  <a href="mailto:ridhamrangani01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ridhamrangani01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email" />
+  <a href="mailto:ridhamrangani12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ridhamrangani12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@ I'm a Computer Science Engineering student with a strong foundation in full-stac
 
 - 🎓 **Education:** B.E. in Computer Science Engineering, L. J. Institute of Engineering and Technology
 - 📍 **Location:** Ahmedabad, Gujarat, India
-- 📩 **Email:** [ridhamrangani01@gmail.com](mailto:ridhamrangani01@gmail.com)
+- 📩 **Email:** [ridhamrangani12@gmail.com](mailto:ridhamrangani12@gmail.com)
 
 ---
 
@@ -104,7 +104,7 @@ I'm a Computer Science Engineering student with a strong foundation in full-stac
 
 ## 📬 Connect With Me
 
-- 📧 **Email:** [ridhamrangani01@gmail.com](mailto:ridhamrangani01@gmail.com)
+- 📧 **Email:** [ridhamrangani12@gmail.com](mailto:ridhamrangani12@gmail.com)
 - 🌐 **GitHub:** [github.com/ridhamrangani01](https://github.com/ridhamrangani01)
 - 📍 **Location:** Ahmedabad, Gujarat, India
 
